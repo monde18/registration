@@ -1,0 +1,3 @@
+#table-id th:nth-child(1), #table-id td:nth-child(1) {
+  border: 1px solid black;
+}
